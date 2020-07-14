@@ -1,4 +1,4 @@
-package ru.relex.sample.rest.api;
+package ru.relex.food_delivery.rest.api;
 
 import org.springframework.web.bind.annotation.*;
 
